@@ -1,7 +1,6 @@
 # 🚀 TermChat 
 
-TermChat is a professional, terminal-based multi-user chat application built with **Java**. It features a robust server-client architecture, private messaging, automated content filtering, and real-time logging.
-
+TermChat is a lightweight, high-performance Java application designed for real-time communication directly through the terminal. Built using Java Sockets and Multi-threading, it offers a secure "Sudo-style" environment with advanced features like private messaging, automated word filtering, and synchronized server logging.
 ---
 
 ## ✨ Key Features
@@ -15,6 +14,16 @@ TermChat is a professional, terminal-based multi-user chat application built wit
 * **Automated Build System**: Includes an "Ultimate Launcher" (`run.bat`) that compiles, builds JAR files, and launches the ecosystem in one click.
 
 ---
+
+## 🛠️ Tech Stack
+
+| Layer      | Technology                            |
+|:-----------|:--------------------------------------|
+| Language   | Java 17+ (Core Networking)            |
+| Protocol   | TCP/IP (Transmission Control Protocol)|
+| Concurrency| Java Threads & Client Handlers        |
+| Data       | Java IO (Streams & Buffered Readers)  |
+| Automation | Batch & Bash Scripting                |
 
 ## 🛠️ Commands
 
@@ -64,3 +73,10 @@ TermChat/
 * **Developer Note** : This project was designed to demonstrate advanced networking concepts including Socket Programming, Thread Pooling, and Synchronized Collections.
 
 ---
+
+👨‍💻 Author
+Meet Potdar Backend & Networking Developer
+
+<p align="center"> <img src="Screenshot.png" width="600" title="TermChat Terminal Interface"> </p>
+
+Built with ❤️ using Java Sockets & Multi-threading
