@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
 * **Multi-User Support**: Powered by Java Multi-threading, allowing many users to chat simultaneously.
 * **Private Whispers**: Use `/msg <username> <message>` to send encrypted-style private texts.
