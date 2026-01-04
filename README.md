@@ -26,14 +26,36 @@
 | Data       | Java IO (Streams & Buffered Readers)  |
 | Automation | Batch & Bash Scripting                |
 
-## 🛠️ Commands
+---
 
-| Command             | Action                                                  |
-| :------------------ | :------------------------------------------------------ |
-| `/help`             | Displays the command menu and chat rules.               |
-| `/list`             | Shows a list of all currently connected usernames.      |
-| `/msg <name> <msg>` | Sends a private message to a specific user.             |
-| `/quit`             | Safely disconnects from the server.                     |
+## 📁 Project Structure
+
+```bash
+TermChat/
+├── src/                  # Java Source Files
+│   └── com/termchat/
+│       ├── client/       # Client-side logic
+│       ├── server/       # Server-side & Multi-threading logic
+│       └── shared/       # Constants, Rules, and Word Lists
+├── bin/                  # Compiled Bytecode (.class files)
+├── chat_history.txt      # Automated Server Logs
+├── TermChat_Client.jar   # Executable Client Application
+└── run.bat               # Master Build & Launch Script
+```
+
+---
+
+## 🎨 Command Reference
+
+Control the terminal like a pro:
+
+🟢 /help - View rules and the command manual.
+
+🔵 /list - See all users currently active on the server.
+
+🟣 /msg <name> <msg> - Send a private whisper to a user.
+
+🔴 /quit - Safely terminate your session.
 
 ---
 
@@ -51,23 +73,6 @@
    `java -cp bin com.termchat.server.TermServer`
 3. **Start Client**:
    `java -cp bin com.termchat.client.TermClient`
-
----
-
-## 📁 Project Structure
-
-```bash
-TermChat/
-├── src/                  # Java Source Files
-│   └── com/termchat/
-│       ├── client/       # Client-side logic
-│       ├── server/       # Server-side & Multi-threading logic
-│       └── shared/       # Constants, Rules, and Word Lists
-├── bin/                  # Compiled Bytecode (.class files)
-├── chat_history.txt      # Automated Server Logs
-├── TermChat_Client.jar   # Executable Client Application
-└── run.bat               # Master Build & Launch Script
-```
 
 ---
 
