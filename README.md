@@ -6,7 +6,7 @@
 ![UI](https://img.shields.io/badge/interface-ANSI%20Terminal-lightgrey?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
 
-**TermChat** is a high-performance, socket-based communication engine designed for real-time interaction. It leverages Java Multi-threading to manage concurrent users, featuring a custom-built Word Filter, Synchronized Logging, and Private Messaging protocols—all within a sleek terminal environment.
+**TermChat** is a high-performance, socket-based communication engine designed for real-time interaction. It leverages **Java Multi-threading** to manage concurrent users, featuring a custom-built **Word Filter**, **Synchronized Logging**, and **Private Messaging** protocols—all within a sleek terminal environment.
 
 ## ✨ Features
 
