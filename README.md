@@ -1,6 +1,12 @@
-# 🚀 TermChat
+# 🚀 TermChat: Professional Multi-Threaded Terminal Chat
 
-  **TermChat** is a lightweight, high-performance Java application designed for real-time communication directly through the terminal. Built using Java Sockets and Multi-threading, it offers a secure "Sudo-style" environment with advanced features like private messaging, automated word filtering, and synchronized server logging.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Network](https://img.shields.io/badge/network-TCP%2FIP-blue?style=for-the-badge&logo=icloud&logoColor=white)
+![Architecture](https://img.shields.io/badge/architecture-Multi--Threaded-brightgreen?style=for-the-badge)
+![UI](https://img.shields.io/badge/interface-ANSI%20Terminal-lightgrey?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
+
+**TermChat** is a high-performance, socket-based communication engine designed for real-time interaction. It leverages Java Multi-threading to manage concurrent users, featuring a custom-built Word Filter, Synchronized Logging, and Private Messaging protocols—all within a sleek terminal environment.
 
 ## ✨ Features
 
