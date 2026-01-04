@@ -81,7 +81,9 @@ Control the terminal like a pro:
 ---
 
 👨‍💻 Author
-Meet Potdar Backend & Networking Developer
+
+Meet Potdar 
+Backend & Networking Developer
 
 <p align="center"> <img src="Screenshot.png" width="600" title="TermChat Terminal Interface"> </p>
 
