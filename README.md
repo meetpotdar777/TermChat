@@ -1,6 +1,7 @@
 # 🚀 TermChat
 
 TermChat is a lightweight, high-performance Java application designed for real-time communication directly through the terminal. Built using Java Sockets and Multi-threading, it offers a secure "Sudo-style" environment with advanced features like private messaging, automated word filtering, and synchronized server logging.
+
 ---
 
 ## ✨ Key Features
